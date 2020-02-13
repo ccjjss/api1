@@ -1,0 +1,12 @@
+{
+  "inscritos": [
+    { "id": 1, "juan": "becerra" },
+    { "id": 2, "Camilo": "Lopez" },
+    { "id": 3, "Raul": "Gutierrez" }
+  ],
+  "retirados": [
+    { "id": 1, "Pedro": "Perez" },
+    { "id": 2, "Ronald": "Bello" },
+    { "id": 3, "Tatiana": "Jaramillo" }
+  ]
+}
